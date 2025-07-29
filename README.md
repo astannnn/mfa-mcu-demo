@@ -71,4 +71,4 @@ This project shows that:
 
 ## ✅ Author
 
-Created by [your name] — for academic demonstration purposes.
+Created by Astan Tabyldy uulu — for academic demonstration purposes.
